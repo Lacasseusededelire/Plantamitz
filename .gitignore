@@ -1,0 +1,14 @@
+# Fichiers générés par le compilateur
+*.exe
+*.o
+*.obj
+*.bak
+
+# Dossiers de build Code::Blocks
+bin/
+obj/
+*.layout
+*.depend
+
+# Dossier de sauvegardes (on les crée à l'exécution, pas besoin de les versionner)
+saves/
